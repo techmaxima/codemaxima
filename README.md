@@ -10,15 +10,21 @@ CodeMaxima is an AI-based code generation tool that can migrate code across lang
 
 1. Clone the repository:
 
+````
 git clone https://github.com/techmaxima/codemaxima.git
+````
 
 2. Install the dependencies:
 
+````
 npm install
+````
 
 3. Run CodeMaxima:
 
+````
 npm run dev
+````
 
 That's it! Once you have completed these steps, you are ready to start using CodeMaxima. If you encounter any issues during installation or usage, please refer to the documentation or feel free to reach out to our support team.
 
