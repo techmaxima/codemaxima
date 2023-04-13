@@ -4,6 +4,8 @@ Welcome to CodeMaxima!
 
 CodeMaxima is an AI-based code generation tool that can migrate code across languages and platforms using OpenAI's Codex. With CodeMaxima, you can quickly and easily translate code from one language to another, or migrate code from one platform to another, all with the power of AI.
 
+![alt text](https://github.com/techmaxima/codemaxima/blob/main/screenshots/screenshot-home-1.png?raw=true)
+
 ## Installation - Development
 
 1. Clone the repository:
