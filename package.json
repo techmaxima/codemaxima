@@ -1,0 +1,50 @@
+{
+  "name": "code-translate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codemirror/legacy-modes": "^6.3.2",
+    "@codemirror/view": "^6.9.4",
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^1.0.6",
+    "@next/font": "^13.3.0",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "@uiw/codemirror-theme-abcdef": "^4.19.15",
+    "@uiw/codemirror-theme-dracula": "^4.19.15",
+    "@uiw/codemirror-theme-tokyo-night": "^4.19.11",
+    "@uiw/codemirror-theme-vscode": "^4.19.15",
+    "@uiw/codemirror-theme-xcode": "^4.19.15",
+    "@uiw/react-codemirror": "^4.19.11",
+    "any": "^1.0.0",
+    "endent": "^2.1.0",
+    "eventsource-parser": "^1.0.0",
+    "next": "13.2.4",
+    "react": "^18.2.0",
+   
+    
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "postcss": "^8.4.21",
+    "prettier-plugin-tailwindcss": "^0.2.6",
+    "tailwindcss": "^3.3.1",
+    "typescript": "5.0.3"
+  },
+  "description": "Use AI to translate code from one language to another.",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}
